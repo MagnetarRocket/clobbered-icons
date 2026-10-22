@@ -9,3 +9,5 @@ Should be the same as the mentioned WM's due to them sharing permisive licences.
 https://github.com/NetBSD/xsrc/tree/trunk/external/mit/ctwm/dist/xpm
 
 https://github.com/openbsd/xenocara/tree/master/app/fvwm/icons
+
+The version of FVWM is from before the GPL licence change.
